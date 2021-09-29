@@ -6,7 +6,7 @@
   "homepage": "https://pswaldia.github.io/College_Website",
   "dependencies": {
     "gh-pages": "^2.0.1",
-    "i": "^0.3.6"
+    "i": "^0.3.7"
   },
   "devDependencies": {},
   "scripts": {
